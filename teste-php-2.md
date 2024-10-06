@@ -1,6 +1,6 @@
 Olá pessoal da Alphacode, espero que estejam bem!
 
-[![Demosntração no Youtube]](https://www.youtube.com/watch?v=n7xbOdmfEak)
+[[Demosntração da aplicação no Youtube]](https://www.youtube.com/watch?v=n7xbOdmfEak)
 
 # Requisitos da aplicação:
 
