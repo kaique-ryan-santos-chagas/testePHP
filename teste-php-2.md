@@ -13,6 +13,17 @@ Olá pessoal da Alphacode, espero que estejam bem!
 
 `` docker-compose up -d --build ``
 
+* No container da aplicação:
+
+* Rode o comando para rodar as migrations:
+
+`` php artisan migrate ``
+
+* Rode o comando para execução das seeds:
+
+`` php artisan db:seed --class=TiposContrato ``
+
+
 * E no container MySQL, crie um banco de dados chamado: "candidatos_empregos"
 
 # Instruções para rodar a aplicação manualmente:
